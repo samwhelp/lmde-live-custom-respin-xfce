@@ -11,4 +11,4 @@
 ## ## Package / authentication agent / mate
 ##
 
-#mate-polkit
+mate-polkit
