@@ -8,7 +8,7 @@
 
 
 ##
-## ## Package / policykit
+## ## Package / authentication agent / mate
 ##
 
-mate-polkit
+#mate-polkit
