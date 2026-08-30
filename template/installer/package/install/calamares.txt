@@ -18,6 +18,15 @@ calamares-settings-debian
 
 
 ##
+## ## Package / Archiver
+##
+
+squashfs-tools
+
+
+
+
+##
 ## ## Package / Filesystem
 ##
 
