@@ -1,15 +1,24 @@
 
 
 ##
-## # calamares
+## # Calamares
 ##
 
 
 
 
 ##
-## ## Package / calamares
+## ## Package / Calamares
 ##
 
 calamares
 calamares-settings-debian
+
+
+
+
+##
+## ## Package / Filesystem
+##
+
+e2fsprogs
