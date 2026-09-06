@@ -69,6 +69,15 @@ xfce4-terminal
 
 
 ##
+## ## Package / Terminal / ptyxis
+##
+
+#ptyxis
+
+
+
+
+##
 ## ## Package / Terminal / tilix
 ##
 
